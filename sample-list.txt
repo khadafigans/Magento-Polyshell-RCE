@@ -1,0 +1,7 @@
+ANY URL IS ACCEPTED LIKE SAMPLE BELOW ITS ALREADY BEING HANDLED BY THE SCRIPT
+
+https://site.com
+http://site.com
+https://127.0.0.1
+https://127.0.0.1:8888
+site.com
