@@ -5,9 +5,9 @@ Advanced Magento 2.x exploitation tool for unauthenticated RCE via polyglot file
 ## **Image Preview**
 ![PolyShell Banner](banner.png)
 ![Attack Vector](at.png)
-![Attack Vector 2](at2.png)
 ![RCE Confirmed](val.png)
 
+---
 
 ## 🎯 Vulnerability Details
 
